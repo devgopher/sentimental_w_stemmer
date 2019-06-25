@@ -5,11 +5,11 @@ Python port of github.com/Wobot/Sentimental (orig: https://github.com/text-machi
 A simple dictionary-based sentiment analysis system with Russian language support.
 Installation
 
-pip install -U git+https://github.com/devgopher/sentimental_w_stemmer.git
+pip3 install -U git+https://github.com/devgopher/sentimental_w_stemmer.git
 
 or
 
-pip install -U git+ssh://git@github.com/devgopher/sentimental_w_stemmer.git
+pip3 install -U git+ssh://git@github.com/devgopher/sentimental_w_stemmer.git
 
 Usage
 
